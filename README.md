@@ -1,4 +1,4 @@
-<a<i class="fa-solid fa-link"></i> href="https://mood-manager.onrender.com/">MOOD-MANAGER</a>
+<i class="fa-solid fa-link"></i><a href="https://mood-manager.onrender.com/">MOOD-MANAGER</a>
 
 <p align="center">
   <img src="./static/images/mood_manager_banner.png" width="90%"  alt="Project banner" />
